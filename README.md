@@ -7,3 +7,6 @@
   <li>Prisma</li>      
   <li>SQLite Database</li> 
 </ul>
+
+
+<span>Author: <a href="https://github.com/xabb0s">xabb0s</a></span>
