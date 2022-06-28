@@ -1,14 +1,22 @@
 # online-shop
 
-# install modules
+## Setup
+
+Type this in terminal to install the dependencies:
+
+```bash
 npm install
+```
 
+## Development Server
 
-# development server
+Start the development server on http://localhost:8080
+
+```bash
 npm run dev
+```
 
-
-<b>Used:</b>
+## Used on this project
 <ul>
   <li>Node Js</li>
   <li>Express</li>  
@@ -17,4 +25,5 @@ npm run dev
 </ul>
 
 
-<span>Author: <a href="https://github.com/xabb0s">xabb0s</a></span>
+
+<code><span>Author: <a href="https://github.com/xabb0s">xabb0s</a></span></code>
