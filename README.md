@@ -1,5 +1,13 @@
 # online-shop
 
+# install modules
+npm install
+
+
+# development server
+npm run dev
+
+
 <b>Used:</b>
 <ul>
   <li>Node Js</li>
